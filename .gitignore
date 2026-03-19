@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+server/.venv/
+
+# Logs
+*.log
+*.txt
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# MCP / Uvicorn / Streamlit temp files
+*.lock
+*.db
+*.sqlite3
+*.csv
+*.json
+
+# Environment variables
+.env
+
+# Build / dist
+build/
+dist/
+*.egg-info/
