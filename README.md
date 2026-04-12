@@ -49,3 +49,8 @@ travel-copilot/
 │       └── travel_data.json
 ├── pyproject.toml
 ├── uv.lock
+
+
+
+https://github.com/user-attachments/assets/8f56675b-b68a-4ea3-8217-6091094566a7
+
